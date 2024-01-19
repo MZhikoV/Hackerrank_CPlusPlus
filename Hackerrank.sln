@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variable Sized Arrays", "Va
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lower Bound-STL", "Lower Bound-STL\Lower Bound-STL.vcxproj", "{0D561B90-C8E7-4CC1-89B9-F49CCC271FB6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maps-STL", "Maps-STL\Maps-STL.vcxproj", "{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{0D561B90-C8E7-4CC1-89B9-F49CCC271FB6}.Release|x64.Build.0 = Release|x64
 		{0D561B90-C8E7-4CC1-89B9-F49CCC271FB6}.Release|x86.ActiveCfg = Release|Win32
 		{0D561B90-C8E7-4CC1-89B9-F49CCC271FB6}.Release|x86.Build.0 = Release|Win32
+		{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}.Debug|x64.ActiveCfg = Debug|x64
+		{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}.Debug|x64.Build.0 = Debug|x64
+		{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}.Debug|x86.Build.0 = Debug|Win32
+		{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}.Release|x64.ActiveCfg = Release|x64
+		{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}.Release|x64.Build.0 = Release|x64
+		{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}.Release|x86.ActiveCfg = Release|Win32
+		{3E5B6FBA-AB59-4FC2-AED2-F7A08228BA97}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
